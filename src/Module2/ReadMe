@@ -1,0 +1,16 @@
+In this module following things will be performed:
+
+1. screenshot - done
+2. exception handling - in next test case
+3. more page classes will be added - done
+4. generate random user for registration - done
+
+
+Test Case Description:
+1. open home page
+2. click on register
+3. create new user
+4. go to login page
+4. login
+
+

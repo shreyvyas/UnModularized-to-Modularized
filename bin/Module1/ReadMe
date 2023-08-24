@@ -1,0 +1,4 @@
+In this module, unmodularized code is converted into module
+separate page class is created for HomePage where WebElement and Web Actions are defined
+
+separate test class also created where test steps are written.
